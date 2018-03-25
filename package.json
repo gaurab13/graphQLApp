@@ -1,0 +1,22 @@
+{
+  "name": "graphqlapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaurab13/graphQLApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gaurab13/graphQLApp/issues"
+  },
+  "homepage": "https://github.com/gaurab13/graphQLApp#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
